@@ -15,7 +15,7 @@ Este é um jogo de Jokenpo (Pedra, Papel e Tesoura) com:
 ✅ Exibição das regras
 ✅ Computador com jogada aleatória
 
-O jogador disputa contra o computador e vence quem fizer 2 pontos primeiro.
+O jogador disputa contra o computador.
 
 ---
 🏆 Regras do Jogo
