@@ -40,6 +40,11 @@ Essa estrutura esta protegida contra opcoes invalidas digitadas pelo jogador.
 Agora eh possivel ver no modo campeonato, o placar do jogo.
 Eh exibido uma contagem de pontos entre o jogador, o adversario e a quantidade de empates.
 
+✂️ PATCH ATUALIZACOES 2:
+
+✅ Codigo completamente modularizado.
+
+Modularizacao incrementada para facilitar manutencao e leitura.
 ---
 
 🛠 Tecnologias Utilizadas
